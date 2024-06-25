@@ -5,3 +5,5 @@ See how the precision increases / error decreases as we train the model with the
 See how the NN looks like in a plot, maybe theres a cool way to do it. 
 
 Maybe use a pretrained model too and see how complex it is.
+
+How are we taking the test and train sets? We should add a random sampler but make sure we always use the seem seed for consistency.
