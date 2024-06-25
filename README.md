@@ -3,7 +3,7 @@
 This repository contains code for training, evaluating, and analyzing a ResNet18 model for the CIFAR-10 image classification task. CIFAR-10 is a popular dataset in the field of computer vision, consisting of 60,000 32x32 color images across 10 classes.
 
 ## Files Included
-- `Cifar10 with ResNet Computer Vision_Image Classification.ipynb`: Jupyter notebook containing the complete code for the project.
+- `Cifar10-ResNet.ipynb`: Jupyter notebook containing the complete code for the project.
   
 ## Model Used
 - **ResNet18**: We utilized the ResNet18 architecture pretrained on ImageNet and fine-tuned it for CIFAR-10 classification by replacing the final fully connected layer.
