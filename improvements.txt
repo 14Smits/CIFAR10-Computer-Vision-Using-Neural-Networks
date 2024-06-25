@@ -1,0 +1,5 @@
+Improvements we can make: 
+
+See how the precision increases / error decreases as we train the model with the epochs. 
+
+See how the NN looks like in a plot, maybe theres a cool way to do it. 
